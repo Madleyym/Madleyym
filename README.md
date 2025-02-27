@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Welcome to Madleyym's Universe! 🚀
+# 🌟 Welcome to Mad-Jr Universe! 🚀
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Madleyym&label=Profile%20Views&color=brightgreen&style=for-the-badge)](https://github.com/Madleyym)
 [![GitHub followers](https://img.shields.io/github/followers/Madleyym?style=for-the-badge&logo=github)](https://github.com/Madleyym?tab=followers)
